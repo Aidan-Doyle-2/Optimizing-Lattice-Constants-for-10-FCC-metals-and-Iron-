@@ -1,7 +1,7 @@
 # 🌌 FCC Metal Simulation using Lennard–Jones Potentials
 
 This project explores how simple pair potentials can capture the complex behaviour of real metals.  
-Inspired by **Kanhaiya et al. (2021)** — *npj Computational Materials, 7, 17* — the goal was to reproduce equilibrium lattice constants for ten FCC metals using **Lennard–Jones interatomic potentials**.
+Inspired by **Kanhaiya et al. (2021)** - the goal was to reproduce equilibrium lattice constants for ten FCC metals using **Lennard–Jones interatomic potentials**.
 
 ---
 
